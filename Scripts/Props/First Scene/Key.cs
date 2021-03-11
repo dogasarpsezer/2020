@@ -51,7 +51,7 @@ public class Key : MonoBehaviour
                     interactionText.SetActive(false);
                 }
 
-                //Debug.Log("DOğru kapı değil Siktir git");
+                
             }
         }
     }
